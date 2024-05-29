@@ -1,0 +1,9 @@
+C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe.config
+C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe
+C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.pdb
+C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\obj\Debug\EJCutOver.csproj.AssemblyReference.cache
+C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\obj\Debug\EJCutOver.ProjectInstaller.resources
+C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\obj\Debug\EJCutOver.csproj.GenerateResource.cache
+C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\obj\Debug\EJCutOver.csproj.CoreCompileInputs.cache
+C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\obj\Debug\EJCutOver.exe
+C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\obj\Debug\EJCutOver.pdb

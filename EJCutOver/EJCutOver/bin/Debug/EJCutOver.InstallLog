@@ -1,0 +1,64 @@
+﻿Installing assembly 'C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.InstallLog
+   assemblypath = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe
+Unable to create an instance of the EJCutOver.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.InstallLog
+   assemblypath = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe
+Unable to create an instance of the EJCutOver.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.InstallLog
+   assemblypath = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe
+Unable to create an instance of the EJCutOver.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.InstallLog
+   assemblypath = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe
+Unable to create an instance of the EJCutOver.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.InstallLog
+   assemblypath = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe
+Unable to create an instance of the EJCutOver.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.InstallLog
+   assemblypath = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe
+Unable to create an instance of the EJCutOver.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.InstallLog
+   assemblypath = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe
+Unable to create an instance of the EJCutOver.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.InstallLog
+   assemblypath = C:\Users\Komuter\source\repos\EJCutOver\EJCutOver\bin\Debug\EJCutOver.exe
+Unable to create an instance of the EJCutOver.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
